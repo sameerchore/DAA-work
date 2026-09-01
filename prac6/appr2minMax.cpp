@@ -1,3 +1,6 @@
+//run by :  cd /home/samc4e/daa/prac6 && g++ -o appr2minMax appr2minMax.cpp && ./appr2minMax
+
+
 #include<iostream>
 #include<vector>
 #include<climits>
