@@ -1,7 +1,8 @@
-#include <vector>
-#include <climits>
-#include <iostream>
+#include<iostream>
+#include<vector>
+#include<climits>
 using namespace std;
+
 
 vector<int> findMinMax(vector<int>& arr) {
     int n = arr.size();
